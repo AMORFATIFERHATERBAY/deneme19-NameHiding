@@ -1,0 +1,12 @@
+/Users/amorfati/Desktop/dotnet-deneme/deneme19-NameHiding/bin/Debug/netcoreapp3.1/deneme19-NameHiding.deps.json
+/Users/amorfati/Desktop/dotnet-deneme/deneme19-NameHiding/bin/Debug/netcoreapp3.1/deneme19-NameHiding.runtimeconfig.json
+/Users/amorfati/Desktop/dotnet-deneme/deneme19-NameHiding/bin/Debug/netcoreapp3.1/deneme19-NameHiding.runtimeconfig.dev.json
+/Users/amorfati/Desktop/dotnet-deneme/deneme19-NameHiding/bin/Debug/netcoreapp3.1/deneme19-NameHiding.dll
+/Users/amorfati/Desktop/dotnet-deneme/deneme19-NameHiding/bin/Debug/netcoreapp3.1/deneme19-NameHiding.pdb
+/Users/amorfati/Desktop/dotnet-deneme/deneme19-NameHiding/obj/Debug/netcoreapp3.1/deneme19-NameHiding.csprojAssemblyReference.cache
+/Users/amorfati/Desktop/dotnet-deneme/deneme19-NameHiding/obj/Debug/netcoreapp3.1/deneme19-NameHiding.AssemblyInfoInputs.cache
+/Users/amorfati/Desktop/dotnet-deneme/deneme19-NameHiding/obj/Debug/netcoreapp3.1/deneme19-NameHiding.AssemblyInfo.cs
+/Users/amorfati/Desktop/dotnet-deneme/deneme19-NameHiding/obj/Debug/netcoreapp3.1/deneme19-NameHiding.csproj.CoreCompileInputs.cache
+/Users/amorfati/Desktop/dotnet-deneme/deneme19-NameHiding/obj/Debug/netcoreapp3.1/deneme19-NameHiding.dll
+/Users/amorfati/Desktop/dotnet-deneme/deneme19-NameHiding/obj/Debug/netcoreapp3.1/deneme19-NameHiding.pdb
+/Users/amorfati/Desktop/dotnet-deneme/deneme19-NameHiding/obj/Debug/netcoreapp3.1/deneme19-NameHiding.genruntimeconfig.cache
