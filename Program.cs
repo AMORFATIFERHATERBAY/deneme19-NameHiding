@@ -4,7 +4,19 @@ namespace deneme19_NameHiding
 {
     class Temel
     {
-        public int a;
+        protected int a;
+
+        public int A
+        {
+            get
+            {
+                return a;
+            }
+            set
+            {
+                a = value;
+            }
+        }
         public void Goster()
         {
             Console.WriteLine("Temel.a =" + a);
